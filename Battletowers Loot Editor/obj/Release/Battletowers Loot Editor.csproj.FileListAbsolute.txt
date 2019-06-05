@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\BattletowersLootEditor.PromptAdd.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\BattletowersLootEditor.PromptEdit.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\BattletowersLootEditor.FormLootEditor.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\BattletowersLootEditor.Properties.Resources.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Release\Battletowers Loot Editor.exe.config
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Release\Battletowers Loot Editor.exe.manifest
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Release\Battletowers Loot Editor.application
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Release\Battletowers Loot Editor.exe
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Release\Battletowers Loot Editor.pdb
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.exe.manifest
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.application
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.exe
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.pdb
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Release\Battletowers Loot Editor.csprojAssemblyReference.cache

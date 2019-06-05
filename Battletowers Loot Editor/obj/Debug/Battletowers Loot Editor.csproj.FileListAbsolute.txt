@@ -1,0 +1,16 @@
+c:\users\user\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\Battletowers Loot Editor.csprojAssemblyReference.cache
+c:\users\user\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\Battletowers Loot Editor.csproj.GenerateResource.cache
+c:\users\user\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\Battletowers Loot Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.PromptAdd.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.PromptEdit.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.FormLootEditor.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.Properties.Resources.resources
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Debug\BattletowersLootEditor.exe.config
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Debug\BattletowersLootEditor.exe
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Debug\BattletowersLootEditor.pdb
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.exe
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.pdb
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Debug\BattletowersLootEditor.exe.manifest
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\bin\Debug\BattletowersLootEditor.application
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.exe.manifest
+C:\Users\User\source\repos\Battletowers Loot Editor\Battletowers Loot Editor\obj\Debug\BattletowersLootEditor.application
